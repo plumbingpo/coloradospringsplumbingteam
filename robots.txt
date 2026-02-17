@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coloradospringsplumbingteam.com/sitemap.xml
